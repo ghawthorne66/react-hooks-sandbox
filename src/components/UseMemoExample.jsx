@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useMemo} from "react"
+import { useState, useEffect, useMemo} from "react"
 
 function UseMemoExample() {
     const [number, setNumber] = useState(1)
